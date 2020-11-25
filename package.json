@@ -1,0 +1,11 @@
+{
+  "name": "fetude",
+  "version": "0.0.0",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "expressjs/express",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7"
+  }
+}
