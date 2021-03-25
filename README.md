@@ -1,2 +1,2 @@
 # etude
-étude JE questionnaire pour Alkemys
+étude JE questionnaire
